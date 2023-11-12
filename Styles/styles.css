@@ -1,0 +1,66 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: rgb(0, 174, 255);
+    font: normal 15pt Arial, sans-serif;
+}
+
+header {
+    text-align: center;
+    color: white;
+    margin-top: 15px;
+}
+
+p, #res{
+    margin: 10px;
+    margin-bottom: 25px;
+}
+section {
+    background-color: white;
+    border-radius: 10px;
+    padding: 15px;
+    margin: auto;
+    width: 500px;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.322);
+}
+
+
+footer {
+    margin-top: 10px;
+    text-align: center;
+    color: white;
+    font-style: italic;
+}
+
+#textano {
+    border-radius: 25px;
+    border: none;
+    margin: 10px;
+    padding: 20px;
+    width: 340px;
+    color: white;
+    width: 200px;
+    height: 40px;
+    background-color: #0077ff;
+}
+#botão{
+    font-size: 17px;
+    color: white;
+    width: 150px;
+    background-color: #0077ff;
+    border: none;
+    border-radius: 20px;
+    padding: 17px;
+    margin-top: 10px;
+    cursor: pointer;
+}
+#foto{ 
+    width: 250px;  
+    height: 250px;
+    border-radius: 50%;
+    margin-top: 25px
+    }
